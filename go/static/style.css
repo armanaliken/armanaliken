@@ -1,0 +1,37 @@
+a {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+button:not(.submit) {
+    width: 70%;
+    height: 40px;
+    border: 1px solid black;
+}
+
+.submit {
+    width: 100px;
+    height: 30px;
+}
+
+table {
+    width: 100%;
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 15px;
+    border: 1px solid black;
+}
+
+.col-12 {
+    margin-bottom: 20px;
+}
+
+input {
+    font-size: 20px;
+    width: 250px;
+    height: 30px;
+}
